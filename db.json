@@ -1,0 +1,185 @@
+{
+  "sensor_files": [
+    {
+      "id": 1,
+      "file_name": "sensor_data_001.json",
+      "uploaded_date": "2024-09-01",
+      "comments": "First batch of sensor data."
+    },
+    {
+      "id": 2,
+      "file_name": "sensor_data_002.json",
+      "uploaded_date": "2024-09-02",
+      "comments": "Data includes temperature readings."
+    },
+    {
+      "id": 3,
+      "file_name": "sensor_data_003.json",
+      "uploaded_date": "2024-09-03",
+      "comments": "No anomalies detected."
+    },
+    {
+      "id": 4,
+      "file_name": "sensor_data_004.json",
+      "uploaded_date": "2024-09-04",
+      "comments": "Data captured during a rain event."
+    },
+    {
+      "id": 5,
+      "file_name": "sensor_data_005.json",
+      "uploaded_date": "2024-09-05",
+      "comments": "Contains humidity and pressure levels."
+    },
+    {
+      "id": 6,
+      "file_name": "sensor_data_006.json",
+      "uploaded_date": "2024-09-06",
+      "comments": "Routine data."
+    },
+    {
+      "id": 7,
+      "file_name": "sensor_data_007.json",
+      "uploaded_date": "2024-09-07",
+      "comments": "Sensor maintenance performed before this data capture."
+    },
+    {
+      "id": 8,
+      "file_name": "sensor_data_008.json",
+      "uploaded_date": "2024-09-08",
+      "comments": "Data from a new location."
+    },
+    {
+      "id": 9,
+      "file_name": "sensor_data_009.json",
+      "uploaded_date": "2024-09-09",
+      "comments": "All readings within normal range."
+    },
+    {
+      "id": 10,
+      "file_name": "sensor_data_010.json",
+      "uploaded_date": "2024-09-10",
+      "comments": "Initial trial data with new sensor setup."
+    },
+    {
+      "id": 11,
+      "file_name": "sensor_data_011.json",
+      "uploaded_date": "2024-09-11",
+      "comments": "Cloudy weather during data collection."
+    },
+    {
+      "id": 12,
+      "file_name": "sensor_data_012.json",
+      "uploaded_date": "2024-09-12",
+      "comments": "Includes wind speed data."
+    },
+    {
+      "id": 13,
+      "file_name": "sensor_data_013.json",
+      "uploaded_date": "2024-09-13",
+      "comments": "Power fluctuation noticed in the sensors."
+    },
+    {
+      "id": 14,
+      "file_name": "sensor_data_014.json",
+      "uploaded_date": "2024-09-14",
+      "comments": "Data captured at midnight."
+    },
+    {
+      "id": 15,
+      "file_name": "sensor_data_015.json",
+      "uploaded_date": "2024-09-15",
+      "comments": "Contains motion sensor data."
+    },
+    {
+      "id": 16,
+      "file_name": "sensor_data_016.json",
+      "uploaded_date": "2024-09-16",
+      "comments": "Overheating detected in one sensor."
+    },
+    {
+      "id": 17,
+      "file_name": "sensor_data_017.json",
+      "uploaded_date": "2024-09-17",
+      "comments": "Windy conditions during data collection."
+    },
+    {
+      "id": 18,
+      "file_name": "sensor_data_018.json",
+      "uploaded_date": "2024-09-18",
+      "comments": "Outlier detected in temperature readings."
+    },
+    {
+      "id": 19,
+      "file_name": "sensor_data_019.json",
+      "uploaded_date": "2024-09-19",
+      "comments": "Routine capture. No issues."
+    }
+  ],
+  "sensor_details": [
+    {
+      "id": 2,
+      "file_name": "sensor_data_002",
+      "type": "Light",
+      "data": [
+        {
+          "timestamp": "2024-09-01T08:00:00",
+          "value": 60.2
+        },
+        {
+          "timestamp": "2024-09-01T09:00:00",
+          "value": 61.5
+        },
+        {
+          "timestamp": "2024-09-01T10:00:00",
+          "value": 62
+        }
+      ]
+    },
+    {
+      "file_name": "sensor 7",
+      "type": "pressure",
+      "data": [
+        {
+          "timestamp": "2024-10-14T10:00:00Z",
+          "value": 23.5
+        },
+        {
+          "timestamp": "2024-10-14T11:00:00Z",
+          "value": 24
+        },
+        {
+          "timestamp": "2024-10-14T12:00:00Z",
+          "value": 22.8
+        },
+        {
+          "timestamp": "2024-10-14T13:00:00Z",
+          "value": 25.1
+        },
+        {
+          "timestamp": "2024-10-14T14:00:00Z",
+          "value": 23.9
+        }
+      ],
+      "id": 3
+    },
+    {
+      "file_name": "sensor 3",
+      "type": "light",
+      "data": [
+        {
+          "timestamp": "2024-10-14T10:00:00Z",
+          "value": 23.5
+        },
+        {
+          "timestamp": "2024-10-14T11:00:00Z",
+          "value": 24
+        },
+        {
+          "timestamp": "2024-10-14T12:00:00Z",
+          "value": 22.8
+        }
+      ],
+      "id": 4
+    }
+  ]
+}

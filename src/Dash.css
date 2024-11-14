@@ -1,0 +1,17 @@
+.gradient-green {
+    background: linear-gradient(150deg, #4a8206, #83c962);
+    color: white;
+    font-size: 2rem;
+}
+
+.gradient-blue {
+    background: linear-gradient(135deg, #023d65, #7d66cf);
+    color: white;
+    font-size: 2rem;
+}
+
+.gradient-red {
+    background: linear-gradient(135deg, #7c0707, #ca6969);
+    color: white;
+    font-size: 2rem;
+}
